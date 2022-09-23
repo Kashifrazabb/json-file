@@ -8,7 +8,7 @@ const router = Router()
 router.get("/", (req, res) => {
     var md = new MobileDetect(req.headers['user-agent']);
     // res.send(os.hostname())
-    res.send(md.versionStr)
+    res.send(md.versionStr('Build'))
 })
 
 export default router
