@@ -3,11 +3,11 @@ import data from "./db.json" assert { type: "json" }
 
 const router = Router()
 
-router.get("/mobile", (req, res) => {
+router.get("/mob", (req, res) => {
     res.send(data.users__mob)
 })
 
-router.get("/pc", (req, res) => {
+router.get("/com", (req, res) => {
     res.send(data.users__pc)
 })
 
