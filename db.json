@@ -1,9 +1,9 @@
 {
     "users__mob": {
-        "rk": "Mozilla/5.0 (Linux; Android 12; SM-S908E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
-        "kashif": "Mozilla/5.0 (Linux; Android 12; CPH2363) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36"
+        "admin": "Mozilla/5.0 (Linux; Android 12; CPH2363) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+        "rk": "Mozilla/5.0 (Linux; Android 12; SM-S908E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36"
     },
     "users__pc": {
-        "kashif": "ANGLE (NVIDIA, NVIDIA Quadro 2000 Direct3D11 vs_5_0 ps_5_0, D3D11)"
+        "admin": "ANGLE (NVIDIA, NVIDIA Quadro 2000 Direct3D11 vs_5_0 ps_5_0, D3D11)"
     }
 }
