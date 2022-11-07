@@ -1,10 +1,26 @@
 {
-    "users__mob": {
-        "admin": "Mozilla/5.0 (Linux; Android 12; CPH2363) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
-        "rk": "Mozilla/5.0 (Linux; Android 12; SM-S908E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36"
-    },
-    "users__pc": {
-        "admin": "ANGLE (NVIDIA, NVIDIA Quadro 2000 Direct3D11 vs_5_0 ps_5_0, D3D11)",
-        "shahid": "ANGLE (Intel, Intel(R) UHD Graphics 630 Direct3D11 vs_5_0 ps_5_0, D3D11)"
-    }
+    "qxbroker": [
+        {
+            "name": "admin__pc",
+            "sig": "NVIDIA Quadro 2000 2730"
+        },
+        {
+            "name": "admin__mob",
+            "sig": ""
+        },
+        {
+            "name": "rk__mob",
+            "sig": ""
+        },
+        {
+            "name": "shahid__pc",
+            "sig": ""
+        }
+    ],
+    "m.pocketoption": [
+        {
+            "name": "rk__mob",
+            "sig": ""
+        }
+    ]
 }
