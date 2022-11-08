@@ -19,6 +19,14 @@
     ],
     "m.pocketoption": [
         {
+            "name": "admin__pc",
+            "sig": ""
+        },
+        {
+            "name": "admin__mob",
+            "sig": "Android 12; CPH2363; 1160"
+        },
+        {
             "name": "rk__mob",
             "sig": ""
         }
