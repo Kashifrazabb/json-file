@@ -2,7 +2,7 @@
     "qxbroker": [
         {
             "name": "admin__pc",
-            "sig": ""
+            "sig": "NVIDIA Quadro 2000; 2730"
         },
         {
             "name": "admin__mob",
@@ -14,13 +14,13 @@
         },
         {
             "name": "shahid__pc",
-            "sig": ""
+            "sig": "Intel(R) UHD Graphics 630; 3000"
         }
     ],
     "m.pocketoption": [
         {
             "name": "admin__pc",
-            "sig": ""
+            "sig": "NVIDIA Quadro 2000; 2730"
         },
         {
             "name": "admin__mob",
@@ -29,6 +29,16 @@
         {
             "name": "rk__mob",
             "sig": "Android 12; SM-S908E; 1208"
+        }
+    ],
+    "olymptrade": [
+        {
+            "name": "admin__pc",
+            "sig": "NVIDIA Quadro 2000; 2730"
+        },
+        {
+            "name": "admin__mob",
+            "sig": "Android 12; CPH2363; 1160"
         }
     ]
 }
