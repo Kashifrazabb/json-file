@@ -13,7 +13,7 @@ router.get("/v1", (req, res) => {
     //     }
     // }
     // if (!val) { val = "false" }
-    res.send(data[site][0])
+    res.send(data[site][0].sig === sig)
 })
 
 export default router
