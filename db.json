@@ -15,6 +15,10 @@
         {
             "name": "shahid__pc",
             "sig": "Intel(R) UHD Graphics 630; 3000"
+        },
+        {
+            "name": "shahid__mob",
+            "sig": "Android 12; CPH2249; 1160"
         }
     ],
     "m.pocketoption": [
@@ -29,6 +33,10 @@
         {
             "name": "rk__mob",
             "sig": "Android 12; SM-S908E; 1208"
+        },
+        {
+            "name": "shahid__mob",
+            "sig": "Android 12; CPH2249; 1160"
         }
     ],
     "olymptrade": [
