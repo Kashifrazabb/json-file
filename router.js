@@ -7,13 +7,13 @@ router.get("/v1", (req, res) => {
     var site = req.query.site.replace(".com", "");
     var sig = req.query.sig;
     var val;
-    for (let i = 0; i < data[site].length; i++) {
-        if (data[site][i].sig === sig) {
-            val = "true"
-        }
-    }
-    if (!val) { val = "false" }
-    res.send(val)
+    // for (let i = 0; i < data[site].length; i++) {
+    //     if (data[site][i].sig === sig) {
+    //         val = "true"
+    //     }
+    // }
+    // if (!val) { val = "false" }
+    res.send(data[site][0])
 })
 
 export default router
