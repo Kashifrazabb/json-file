@@ -5,15 +5,15 @@ const router = Router()
 
 router.get("/v1", (req, res) => {
     var site = req.query.site.replace(".com", "");
-    var sig = req.query.sig;
-    var val;
-    // for (let i = 0; i < data[site].length; i++) {
-    //     if (data[site][i].sig === sig) {
-    //         val = "true"
-    //     }
-    // }
-    // if (!val) { val = "false" }
-    res.json({ "1": data[site][0].sig, "2": req.query.sig })
+    var sig = req.query.sig.replace("%3B", ";");
+    var val = false;
+    for (let i = 0; i < data[site].length; i++) {
+        if (data[site][i].sig === sig) {
+            val = true
+            break
+        }
+    }
+    res.send(val)
 })
 
 export default router
