@@ -2,7 +2,7 @@
     "qxbroker": [
         {
             "name": "admin__pc",
-            "sig": "NVIDIA Quadro 2000; 2730"
+            "sig": "NVIDIA Quadro 2000; 3000"
         },
         {
             "name": "admin__mob",
@@ -24,7 +24,7 @@
     "m.pocketoption": [
         {
             "name": "admin__pc",
-            "sig": "NVIDIA Quadro 2000; 2730"
+            "sig": "NVIDIA Quadro 2000; 3000"
         },
         {
             "name": "admin__mob",
@@ -42,7 +42,7 @@
     "olymptrade": [
         {
             "name": "admin__pc",
-            "sig": "NVIDIA Quadro 2000; 2730"
+            "sig": "NVIDIA Quadro 2000; 3000"
         },
         {
             "name": "admin__mob",

@@ -1,4 +1,4 @@
-import e, { Router } from "express"
+import { Router } from "express"
 import data from "./db.json" assert { type: "json" }
 
 const router = Router()
