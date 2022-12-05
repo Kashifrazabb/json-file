@@ -13,6 +13,10 @@
             "sig": "Android 12; SM-S908E; 1208"
         },
         {
+            "name": "rk__pc",
+            "sig": "Intel(R) HD Graphics 620; 2134"
+        },
+        {
             "name": "shahid__pc",
             "sig": "Intel(R) UHD Graphics 630; 3000"
         },
