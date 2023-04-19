@@ -1,0 +1,102 @@
+{
+    "qxbroker": [
+        {
+            "name": "PC__Feiugum",
+            "sig": "NVIDIA Quadro 2000; 3000",
+            "id": "19283746",
+            "email": "Feiugum@gmail.com",
+            "country": "pk"
+        },
+        {
+            "name": "MB__Feiugum",
+            "sig": "Android 13; CPH2363; 1160",
+            "id": "19283746",
+            "email": "Feiugum@gmail.com",
+            "country": "pk"
+        },
+        {
+            "name": "PC__RK",
+            "sig": "Intel(R) HD Graphics 620; 2134",
+            "id": "",
+            "email": "",
+            "country": "in"
+        },
+        {
+            "name": "MB__RK",
+            "sig": "Android 12; SM-S908E; 1295",
+            "id": "",
+            "email": "",
+            "country": "in"
+        },
+        {
+            "name": "PC__SWT",
+            "sig": "Intel(R) UHD Graphics 630; 3000",
+            "id": "",
+            "email": "",
+            "country": "in"
+        },
+        {
+            "name": "MB__SWT",
+            "sig": "Android 13; CPH2249; 1160",
+            "id": "",
+            "email": "",
+            "country": "in"
+        },
+        {
+            "name": "PC__Lara Trader",
+            "sig": "",
+            "id": "18364590",
+            "email": "Lara_Trader@gmail.com",
+            "country": "sg"
+        },
+        {
+            "name": "MB__Lara Trader",
+            "sig": "Android 13; SM-A736B; 1238",
+            "id": "18364590",
+            "email": "Lara_Trader@gmail.com",
+            "country": "sg"
+        },
+        {
+            "name": "PC__King of Binary",
+            "sig": "",
+            "id": "17283940",
+            "email": "KingOfBinary@gmail.com",
+            "country": "in"
+        },
+        {
+            "name": "MB__King of Binary",
+            "sig": "Android 13; V2130; 1266",
+            "id": "17283940",
+            "email": "KingOfBinary@gmail.com",
+            "country": "in"
+        }
+    ],
+    "m.pocketoption": [
+        {
+            "name": "admin__pc",
+            "sig": "NVIDIA Quadro 2000; 3000"
+        },
+        {
+            "name": "admin__mob",
+            "sig": "Android 13; CPH2363; 1160"
+        },
+        {
+            "name": "rk__mob",
+            "sig": "Android 12; SM-S908E; 1295"
+        },
+        {
+            "name": "shahid__mob",
+            "sig": "Android 13; CPH2249; 1160"
+        }
+    ],
+    "olymptrade": [
+        {
+            "name": "admin__pc",
+            "sig": "NVIDIA Quadro 2000; 3000"
+        },
+        {
+            "name": "admin__mob",
+            "sig": "Android 13; CPH2363; 1160"
+        }
+    ]
+}

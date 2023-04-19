@@ -1,0 +1,2 @@
+        "gujjar": "Mozilla/5.0 (Linux; Android 12; LE2101) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+        "gujjar": "ANGLE (Intel, Intel(R) HD Graphics 505 Direct3D11 vs_5_0 ps_5_0, D3D11)"
