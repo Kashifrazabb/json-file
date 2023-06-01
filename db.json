@@ -2,7 +2,7 @@
     "qxbroker": [
         {
             "name": "PC__Feiugum",
-            "sig": "Intel(R) UHD Graphics; 2000",
+            "sig": "ANGLE (Intel, Intel(R) UHD Graphics Direct3D11 vs_5_0 ps_5_0, D3D11); 2000",
             "id": "19283746",
             "email": "Feiugum@gmail.com",
             "flag": "pk"
