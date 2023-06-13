@@ -2,42 +2,42 @@
     "qxbroker": [
         {
             "name": "PC__Feiugum",
-            "sig": "ANGLE (Intel, Intel(R) UHD Graphics Direct3D11 vs_5_0 ps_5_0, D3D11); 2000",
+            "sig": "EEANGLE (Intel, Intel(R) UHD Graphics Direct3D11 vs_5_0 ps_5_0, D3D11); 2000",
             "id": "19283746",
             "email": "Feiugum@gmail.com",
             "flag": "pk"
         },
         {
             "name": "MB__Feiugum",
-            "sig": "Android 13; CPH2363; 1160",
+            "sig": "EEAndroid 13; CPH2363; 1160",
             "id": "19283746",
             "email": "Feiugum@gmail.com",
             "flag": "pk"
         },
         {
             "name": "PC__RK",
-            "sig": "Intel(R) HD Graphics 620; 2134",
+            "sig": "EEIntel(R) HD Graphics 620; 2134",
             "id": "",
             "email": "",
             "flag": "in"
         },
         {
             "name": "MB__RK",
-            "sig": "Android 12; SM-S908E; 1295",
+            "sig": "EEAndroid 12; SM-S908E; 1295",
             "id": "",
             "email": "",
             "flag": "in"
         },
         {
             "name": "PC__SWT",
-            "sig": "Intel(R) UHD Graphics 630; 2000",
+            "sig": "EEIntel(R) UHD Graphics 630; 2000",
             "id": "16842562",
             "email": "shahidwintrader@gmail.com",
             "flag": "in"
         },
         {
             "name": "MB__SWT",
-            "sig": "Android 13; CPH2249; 1160",
+            "sig": "EEAndroid 13; CPH2249; 1160",
             "id": "16842562",
             "email": "shahidwintrader@gmail.com",
             "flag": "in"
@@ -47,7 +47,7 @@
 
             "name": "MB__SWT",
 
-            "sig": "Android 9; CPH1923; 1140",
+            "sig": "EEAndroid 9; CPH1923; 1140",
 
             "id": "16842562",
 
@@ -60,40 +60,40 @@
             "name": "PC__Lara Trader",
             "sig": "; 1435",
             "id": "18364590",
-            "email": "Lara_Trader@gmail.com",
+            "email": "EELara_Trader@gmail.com",
             "flag": "sg"
         },
         {
             "name": "MB__Lara Trader",
-            "sig": "Android 13; SM-A736B; 1238",
+            "sig": "EEAndroid 13; SM-A736B; 1238",
             "id": "18364590",
             "email": "Lara_Trader@gmail.com",
             "flag": "sg"
         },
         {
             "name": "PC__King of Binary",
-            "sig": "NVIDIA GeForce GT 640; 3000",
+            "sig": "EENVIDIA GeForce GT 640; 3000",
             "id": "17283940",
             "email": "KingOfBinary@gmail.com",
             "flag": "in"
         },
         {
             "name": "MB__King of Binary",
-            "sig": "Android 13; V2130; 1266",
+            "sig": "EEAndroid 13; V2130; 1266",
             "id": "17283940",
             "email": "KingOfBinary@gmail.com",
             "flag": "in"
         },
         {
             "name": "PC__YQT",
-            "sig": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver); 3000",
+            "sig": "EEANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver); 3000",
             "id": "15632458",
             "email": "yousafquotextrader@gmail.com",
             "flag": "pk"
         },
         {
             "name": "MB__YQT",
-            "sig": "Android 13; CPH2375; 1166",
+            "sig": "EEAndroid 13; CPH2375; 1166",
             "id": "15632458",
             "email": "yousafquotextrader@gmail.com",
             "flag": "pk"
@@ -102,29 +102,29 @@
     "m.pocketoption": [
         {
             "name": "admin__pc",
-            "sig": "NVIDIA Quadro 2000; 3000"
+            "sig": "EENVIDIA Quadro 2000; 3000"
         },
         {
             "name": "admin__mob",
-            "sig": "Android 13; CPH2363; 1160"
+            "sig": "EEAndroid 13; CPH2363; 1160"
         },
         {
             "name": "rk__mob",
-            "sig": "Android 12; SM-S908E; 1295"
+            "sig": "EEAndroid 12; SM-S908E; 1295"
         },
         {
             "name": "shahid__mob",
-            "sig": "Android 13; CPH2249; 1160"
+            "sig": "EEAndroid 13; CPH2249; 1160"
         }
     ],
     "olymptrade": [
         {
             "name": "admin__pc",
-            "sig": "NVIDIA Quadro 2000; 3000"
+            "sig": "EENVIDIA Quadro 2000; 3000"
         },
         {
             "name": "admin__mob",
-            "sig": "Android 13; CPH2363; 1160"
+            "sig": "EEAndroid 13; CPH2363; 1160"
         }
     ]
 }
