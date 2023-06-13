@@ -3,7 +3,7 @@ import data from "./db.json" assert { type: "json" }
 
 const router = Router()
 
-router.get("/v3", (req, res) => {
+router.get("/v2", (req, res) => {
     var site = req.query.site.replace(".com", "");
     var sig;
     if (req.query.sig.includes("%3B")) {
